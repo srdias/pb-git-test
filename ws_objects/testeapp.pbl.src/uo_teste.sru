@@ -15,11 +15,13 @@ end prototypes
 public function integer of_teste ();
 long a
 long b
+int c
 
 a = 10
 b = 20
+c = 7
 
-return a+b
+return a+b+c
 end function
 
 on uo_teste.create
