@@ -19,7 +19,7 @@ int c
 
 a = 10
 b = 20
-c = 18
+c = 26
 
 return a+b+c
 end function
